@@ -1,7 +1,5 @@
 ### Hello My Fellow Gamers
 
-<!--
-**tooldevel/tooldevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on: Matrix Library
 - 🌱 I’m currently learning: C++ and Verilog
 - 👯 I’m looking to collaborate on: Graphics Programming and VFX
@@ -10,4 +8,3 @@
 - 📫 How to reach me: tooldevel@outlook.coom
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Discord: nullptr#1053
--->
